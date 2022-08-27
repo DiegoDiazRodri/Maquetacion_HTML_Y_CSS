@@ -1,0 +1,15 @@
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: auto;
+    margin-right: 1000px;
+    background-color: darkgray;
+    text-align: center;
+
+}
+
+#title1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+    font-size: xx-large;
+
+}

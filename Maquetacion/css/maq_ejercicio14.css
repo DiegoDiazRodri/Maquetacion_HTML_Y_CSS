@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 700x;
+}
+
+#header{
+    background-color: rgb(173, 161, 161);
+    width: 800px;
+    height: 100px;
+}
+
+#encabezado{
+    position: relative;
+    left: 250px;
+    top: 20px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#nav{
+    background-color: rgb(150, 120, 120);
+    width: 800px;
+    height: 70px;
+}
+
+#menu{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 5px;
+    left: 280px;
+    font-size: 45px;
+}
+
+
+#main{
+    background-color: bisque;
+    width: 800px;
+    height: 500px;
+}
+
+#container {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 75px;
+    text-align: center;
+}
+
+#title1{
+    position: relative;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    top: 55px;
+}
+
+#footer{
+    background-color: rgb(173, 161, 161);
+    width: 800px;
+    height: 130px;
+}
+
+#pie{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 55px;
+    left: 100px;
+    font-size: 25px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    right: 35px;
+    position: relative;
+    float: right;
+}
+
